@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Calendas';
+  src: url('https://cdn.glitch.global/89b4d486-ac4d-4bc9-80db-15dc65f05f07/calendas_plus-webfont.woff2?v=1689964305258) format('woff2');
+}
+@font-face {
+  font-family: 'CalendasBold';
+  src: url('https://cdn.glitch.global/89b4d486-ac4d-4bc9-80db-15dc65f05f07/calendas_plus_bold-webfont.woff2?v=1689964983987') format('woff2');
+}
+@font-face {
+  font-family: 'CalendasItalic';
+  src: url('https://cdn.glitch.global/89b4d486-ac4d-4bc9-80db-15dc65f05f07/calendas_plus_italic-webfont.woff2?v=1689964924692') format('woff2');
+}
